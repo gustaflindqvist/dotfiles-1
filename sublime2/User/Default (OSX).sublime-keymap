@@ -1,3 +1,0 @@
-[
-  { "keys": ["super+shift+r"], "command": "toggle_setting", "args": {"setting": "word_wrap"} }
-]
